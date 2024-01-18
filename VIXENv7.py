@@ -365,7 +365,7 @@ def crack_file():
 	os.system('clear')
 	banner()
 	os.system('espeak -a 300 " your file name"')
-	print('\033[1;32m[ Put File Example:  /sdcard/king.txt  Etc...]')
+	print('\033[1;32m[ Put File Example:  /sdcard/vixen.txt  Etc...]')
 	o = input('\x1b[1;97m [+] INPut FILE NAME : ')
 	print('')
 	try:lin = open(o).read().splitlines()
@@ -400,7 +400,7 @@ def setting():
 			xx = random.randint(0,len(id2))
 			id2.insert(xx,bacot)
 	print('\x1b[1;92m LOGIN SEXY\n\x1b[1;97m [1] METHOD BEST ')
-	os.system('espeak -a 300 " 1,  method,  best"')
+	os.system('espeak -a 300 " 1,  best method"')
 	hc = input(' CHOOSE: ')
 	if hc in ['1','01']:
 		method.append('mobile')
