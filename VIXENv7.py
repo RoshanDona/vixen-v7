@@ -196,7 +196,7 @@ def login():
 	if TUTUL in ['m']:
 		public()
 	elif TUTUL in ['1']:
-		crack_file('VIXEN 444')
+		crack_file()
 	elif TUTUL in ['i','0i']:
 		result()
 	elif TUTUL in ['2','02']:
@@ -399,7 +399,7 @@ def setting():
 		for bacot in id:
 			xx = random.randint(0,len(id2))
 			id2.insert(xx,bacot)
-	print('\x1b[1;92m LOGIN SEXY\n\x1b[1;97m [1] METHOD BEST ')
+	print('\x1b[1;92m LOGIN \n\x1b[1;97m [1] METHOD BEST ')
 	os.system('espeak -a 300 " 1,  best method"')
 	hc = input(' CHOOSE: ')
 	if hc in ['1','01']:
@@ -507,7 +507,7 @@ def crack(idf,pwv):
 				#Tutul-King
 				print(f'\r\033[0;92m[{time.strftime("%H:%M")}•Tutul-Ok💚] {idf} • {pw}\n\033[0;93m[🌺]= COOKIES • \033[0;92m{kuki} ')
 				print('\033[0;94m==============================================================')
-				os.system('espeak -a 300 " Tutul,  Ok,  id"')
+				os.system('espeak -a 300 " vixen,  Ok,  id"')
 				open('OK/'+okc,'a').write(idf+' • '+pw+'\n')
 				cek_apk(session,coki)
 				break
